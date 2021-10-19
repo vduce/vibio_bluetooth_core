@@ -1,7 +1,8 @@
 name: vibio_bluetooth_core
 description: A new Flutter project.
 version: 0.0.1
-homepage:
+homepage: https://github.com/vduce/vibio_bluetooth_core.git
+author: Vijay Rathod<vijay.rathod@vduce.com>
 
 environment:
   sdk: ">=2.12.0 <3.0.0"
