@@ -1,6 +1,6 @@
 name: vibio_bluetooth_core
-description: A new Flutter project.
-version: 0.0.1
+description: Vibio Bluetooth plugin to control Vibio devices
+version: 1.0.0
 homepage: https://github.com/vduce/vibio_bluetooth_core.git
 author: Vijay Rathod<vijay.rathod@vduce.com>
 
@@ -11,9 +11,6 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  flutter_blue: ^0.8.0
-  intl:
-  fluttertoast:
 
 dev_dependencies:
   flutter_test:
