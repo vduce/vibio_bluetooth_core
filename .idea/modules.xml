@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/vibio_bluetooth_core.iml" filepath="$PROJECT_DIR$/vibio_bluetooth_core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android/vibio_bluetooth_core_android.iml" filepath="$PROJECT_DIR$/android/vibio_bluetooth_core_android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/example/android/vibio_bluetooth_core_example_android.iml" filepath="$PROJECT_DIR$/example/android/vibio_bluetooth_core_example_android.iml" />
+    </modules>
+  </component>
+</project>
