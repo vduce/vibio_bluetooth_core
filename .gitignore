@@ -1,7 +1,21 @@
 .DS_Store
-.dart_tool/
+.atom/
+.idea/
+.vscode/
 
 .packages
 .pub/
+.dart_tool/
+pubspec.lock
+flutter_export_environment.sh
 
 build/
+Podfile.lock
+Pods/
+.symlinks/
+**/Flutter/App.framework/
+**/Flutter/ephemeral/
+**/Flutter/Flutter.framework/
+**/Flutter/Generated.xcconfig
+**/Flutter/flutter_assets/
+vibio_bluetooth_core.iml
