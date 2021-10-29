@@ -1,4 +1,4 @@
-package android.src.main.java.com.vduce.vibio_bluetooth_core.utils.sha.util;
+package com.vduce.vibio_bluetooth_core.utils.sha.util;
 
 public interface ArrayUtils {
 

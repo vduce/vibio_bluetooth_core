@@ -1,4 +1,4 @@
-package android.src.main.java.com.vduce.vibio_bluetooth_core.utils;
+package com.vduce.vibio_bluetooth_core.utils;
 
 
 class SecurityHeader {

@@ -1,4 +1,4 @@
-package android.src.main.java.com.vduce.vibio_bluetooth_core.utils.sha.hash;
+package com.vduce.vibio_bluetooth_core.utils.sha.hash;
 
 
 public abstract class SHA2 extends HASH {

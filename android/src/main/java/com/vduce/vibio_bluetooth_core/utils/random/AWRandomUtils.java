@@ -1,4 +1,4 @@
-package android.src.main.java.com.vduce.vibio_bluetooth_core.utils.random;
+package com.vduce.vibio_bluetooth_core.utils.random;
 
 import java.util.Random;
 

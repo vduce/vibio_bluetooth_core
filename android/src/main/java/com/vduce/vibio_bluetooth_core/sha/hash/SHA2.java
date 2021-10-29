@@ -1,4 +1,4 @@
-package android.src.main.java.com.vduce.vibio_bluetooth_core.sha.hash;
+package com.vduce.vibio_bluetooth_core.sha.hash;
 
 import com.vduce.vibio_bluetooth_core.sha.hash.HASH;
 

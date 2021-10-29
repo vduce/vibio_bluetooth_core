@@ -1,5 +1,3 @@
-package android
-
 group 'com.vduce.vibio_bluetooth_core'
 version '1.0'
 

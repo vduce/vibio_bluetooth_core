@@ -6,3 +6,7 @@
 
 * iOS integration
 * bug fixes
+
+## 1.0.2
+
+* android bug fix

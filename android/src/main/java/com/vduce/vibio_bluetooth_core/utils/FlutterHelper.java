@@ -1,4 +1,4 @@
-package android.src.main.java.com.vduce.vibio_bluetooth_core.utils;
+package com.vduce.vibio_bluetooth_core.utils;
 
 import com.vduce.vibio_bluetooth_core.utils.aes.AESUtils;
 import com.vduce.vibio_bluetooth_core.utils.aes.EncryptUtils;
@@ -31,7 +31,7 @@ public class FlutterHelper {
     /** Parameters for the first step of obtaining certification
      * @return first step auth data
      */
-    public static HashMap fhAuthFirstStepParmas (){
+    public static HashMap fhAuthFirstStepParams (){
         String authKey = SecurityHeader.getAuthKey();
         String randomString = AWRandomUtils.createRandomString(SecurityHeader.getRandomCount());
         String passText = authKey + randomString + ";";
@@ -51,7 +51,7 @@ public class FlutterHelper {
      * @param authString Obtain the data returned in the first step of the authentication process
      * @return second step auth data
      */
-    public static HashMap fhAuthSecondStepParmas (String authString){
+    public static HashMap fhAuthSecondStepParams (String authString){
         String authKey = SecurityHeader.getAuthKey();
         try {
             String authShaString  = FlutterHelper.fhSHA256(authString);

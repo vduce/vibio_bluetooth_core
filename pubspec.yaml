@@ -1,6 +1,6 @@
 name: vibio_bluetooth_core
 description: Vibio Bluetooth plugin to control Vibio devices
-version: 1.0.1
+version: 1.0.2
 homepage: https://github.com/vduce/vibio_bluetooth_core.git
 
 environment:

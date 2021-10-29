@@ -1,6 +1,6 @@
-package android.src.main.java.com.vduce.vibio_bluetooth_core.sha.hash;
+package com.vduce.vibio_bluetooth_core.sha.hash;
 
-import com.vduce.vibio_bluetooth_core.sha.hash.sha.SHA2;
+import com.vduce.vibio_bluetooth_core.utils.sha.hash.SHA2;
 
 public class SHA256 extends SHA2 {
 
